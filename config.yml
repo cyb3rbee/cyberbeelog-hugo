@@ -1,4 +1,4 @@
-baseURL: https://peaceful-cajeta-be9c33.netlify.app/
+baseURL: "https://peaceful-cajeta-be9c33.netlify.app/"
 languageCode: en-us
 title: My New Hugo Site
 
