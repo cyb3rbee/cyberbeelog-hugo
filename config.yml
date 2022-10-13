@@ -1,6 +1,6 @@
-baseURL: "https://peaceful-cajeta-be9c33.netlify.app/"
+baseURL: "https://cyberbeelog-hugo.netlify.app/"
 languageCode: en-us
-title: My New Hugo Site
+title: CyberB33Log
 
 theme: PaperMod
 
