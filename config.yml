@@ -18,10 +18,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: CyberBeeLog
+  description: "Cybersecurity and IT"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: MakJ A.
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -29,7 +29,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -54,7 +54,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "CyberBeeLog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -65,9 +65,9 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/JayAndimat"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/cyb3rbee/cyberbeelog-hugo"
 
   analytics:
     google:
