@@ -5,7 +5,7 @@ draft: false
 tags: ["advent of Cyber 2022"]
 categories: ["cybersecurity"]
 cover:
-  image: "<aoc_imageheader.png>"
+  image: "</static/aoc_imageheader.png>"
 ---
 
 ## Day 1: Framework
