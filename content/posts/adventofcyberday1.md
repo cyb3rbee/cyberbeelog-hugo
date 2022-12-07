@@ -7,7 +7,6 @@ categories: ["cybersecurity"]
 images: '/aoc_imageheader.png'
 ---
 
-
 ## Day 1: Framework
 
 The premise of today's challenge is about security framework. As we learned from the situation, Santa's website got hacked and defaced by an unknown actor. Our job is to help McSkidy (Santa's IT Admin) and her team to figure out their adversaries.
@@ -33,7 +32,48 @@ Identify -> Protect -> Detect -> Respond -> Recover
 > Here are the seven stages of Cyber Kill Chain:
 ![image](/cyber_kill_chain.png)
 
+**Unified Kill Chain =** Is the unigication of MITRE ATT&CK and Cyber Kill Chain frameworks. It provides a model to defend against cyber attacks from the adversary's perspective. UKC has 18 phases of attack based on TTP.
 
+_Cycle 1: IN_
+```
+Reconnaissance
+Weaponisation
+Delivery
+Social Engineering
+Exploitation
+Persistence
+Defence Evasion
+Command Control
+```
+_Cycle 2: THROUGH_
+```
+Pivoting
+Discovery
+Privilege Escalation
+Execution
+Credential Access
+Lateral Movement
+```
+_Cycle 3: OUT_
+```
+Collection
+Exfiltration
+Impact
+Objectives
+```
+
+## Today's Challenge and Answer
+Use the information we learned previously and answer the puzzle left by the adversary.
+
+_Puzzle 1_
+![image](/puzzle1.png)
+_Puzzle 2_
+![image](/puzzle2.png)
+_Puzzle 3_
+![image](/puzzle3.png)
+
+At the end of these puzzle we will find who hacked Santa's website and the flag.
+|| ![image](/day1_answer.png)||
 
 
 
