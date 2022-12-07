@@ -75,7 +75,7 @@ _Puzzle 3_
 At the end of these puzzle we will find who hacked Santa's website and the flag.
 
 >! Spoiler Warning
-![image](/day1_answer.png)
+||![image](/day1_answer.png)||
 
 
 
