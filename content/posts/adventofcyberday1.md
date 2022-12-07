@@ -4,7 +4,9 @@ date: 2022-12-01T14:40:10-07:00
 draft: false
 tags: ["advent of Cyber 2022"]
 categories: ["cybersecurity"]
+images: 'aoc_imageheader.png'
 ---
+
 ![image](/aoc_imageheader.png)
 ## Day 1: Framework
 
