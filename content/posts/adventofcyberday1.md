@@ -12,7 +12,7 @@ The premise of today's challenge is about security framework. As we learned from
 
 ### Theory
 
-The scenario here is about security, when things like this happened we must to adhere to the company's security policies and procedure.
+The scenario here is about security, when things like this happened we must adhere to the company's security policies and procedure.
 
 **Security Frameworks =** This is a documented process that defines what organization must follow to manage their security. It also include the steps to make following an attack.
 
@@ -22,6 +22,7 @@ The scenario here is about security, when things like this happened we must to a
 ```
 Identify -> Protect -> Detect -> Respond -> Recover
 ```
+
 
 
 
