@@ -19,8 +19,9 @@ The scenario here is about security, when things like this happened we must to a
 **Cybersecurity Framework =** Developed by NIST (National Institute of Standards and Technology) that provides a detailed guide for organizations to mitigate cybersecurity risk.
 
 > The framewok focuses on five essential function:
-> Identify -> Protect -> Detect -> Respond -> Recover
-
+```
+Identify -> Protect -> Detect -> Respond -> Recover
+```
 
 
 
