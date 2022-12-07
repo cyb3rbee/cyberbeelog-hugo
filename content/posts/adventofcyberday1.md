@@ -34,7 +34,7 @@ Identify -> Protect -> Detect -> Respond -> Recover
 
 **Unified Kill Chain =** Is the unigication of MITRE ATT&CK and Cyber Kill Chain frameworks. It provides a model to defend against cyber attacks from the adversary's perspective. UKC has 18 phases of attack based on TTP.
 
-_Cycle 1: IN_
+>_Cycle 1: IN_
 ```
 Reconnaissance
 Weaponisation
@@ -45,7 +45,7 @@ Persistence
 Defence Evasion
 Command Control
 ```
-_Cycle 2: THROUGH_
+>_Cycle 2: THROUGH_
 ```
 Pivoting
 Discovery
@@ -54,7 +54,7 @@ Execution
 Credential Access
 Lateral Movement
 ```
-_Cycle 3: OUT_
+>_Cycle 3: OUT_
 ```
 Collection
 Exfiltration
@@ -73,7 +73,9 @@ _Puzzle 3_
 ![image](/puzzle3.png)
 
 At the end of these puzzle we will find who hacked Santa's website and the flag.
-|| ![image](/day1_answer.png)||
+
+>! Spoiler Warning
+![image](/day1_answer.png)
 
 
 
