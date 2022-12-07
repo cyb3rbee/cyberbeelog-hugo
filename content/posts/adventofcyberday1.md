@@ -30,6 +30,7 @@ Identify -> Protect -> Detect -> Respond -> Recover
 
 > Here are the seven stages of Cyber Kill Chain:
 
+
 ![cyber kill chain](/resources/_gen/images/cyber_kill_chain.png)
 
 
