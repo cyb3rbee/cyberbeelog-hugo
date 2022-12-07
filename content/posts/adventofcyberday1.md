@@ -1,6 +1,6 @@
 ---
 cover:
-  image: "<aoc_imageheader.png>"
+  image: "</static/aoc_imageheader.png>"
  alt: "<cover image>"
  caption: "<advent of cyber>"
 
