@@ -61,6 +61,7 @@ Identify -> Protect -> Detect -> Respond -> Recover
 3. Impact
 4. Objectives
 ```
+---
 
 ## Today's Challenge and Answer
 Use the information we learned previously and answer the puzzle left by the adversary.
@@ -75,7 +76,7 @@ _Puzzle 3_
 At the end of these puzzle we will find who hacked Santa's website and the flag.
 
 >! Spoiler Warning
-||![image](/day1_answer.png)||
+![image](/day1_answer.png)
 
 
 
