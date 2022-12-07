@@ -36,30 +36,30 @@ Identify -> Protect -> Detect -> Respond -> Recover
 
 >_Cycle 1: IN_
 ```
-Reconnaissance
-Weaponisation
-Delivery
-Social Engineering
-Exploitation
-Persistence
-Defence Evasion
-Command Control
+1. Reconnaissance
+2. Weaponisation
+3. Delivery
+4. Social Engineering
+5. Exploitation
+6. Persistence
+7. Defence Evasion
+8. Command Control
 ```
 >_Cycle 2: THROUGH_
 ```
-Pivoting
-Discovery
-Privilege Escalation
-Execution
-Credential Access
-Lateral Movement
+1. Pivoting
+2. Discovery
+3. Privilege Escalation
+4. Execution
+5. Credential Access
+6. Lateral Movement
 ```
 >_Cycle 3: OUT_
 ```
-Collection
-Exfiltration
-Impact
-Objectives
+1. Collection
+2. Exfiltration
+3. Impact
+4. Objectives
 ```
 
 ## Today's Challenge and Answer
