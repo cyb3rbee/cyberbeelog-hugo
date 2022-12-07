@@ -1,5 +1,5 @@
 ---
-title: "[THM] Advent of Cyber Day 1"
+title: "[THM] Advent of Cyber 2022 Day 1"
 date: 2022-12-01T14:40:10-07:00
 draft: false
 tags: ["advent of Cyber 2022"]
