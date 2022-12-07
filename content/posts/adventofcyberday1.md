@@ -28,9 +28,9 @@ Identify -> Protect -> Detect -> Respond -> Recover
 
 **Cyber Kill Chain =** Adopted by the military with the terminology "Kill Chain", it describes the structure of an attack. It consist of target identification, decision, order of the attack and destruction of the target.
 
-> Here are the seven stages of Cyber Kill Chain
+> Here are the seven stages of Cyber Kill Chain:
 
-image: <cyber_kill_chain.png>
+![cyber kill chain](/resources/_gen/images/cyber_kill_chain.png)
 
 
 
