@@ -4,10 +4,8 @@ date: 2022-12-01T14:40:10-07:00
 draft: false
 tags: ["advent of Cyber 2022"]
 categories: ["cybersecurity"]
-
-image: "<https://miro.medium.com/max/1200/0*hiF8bghcddsdSKKU.jpg>"
 ---
-
+![image](/aoc_imageheader.png)
 ## Day 1: Framework
 
 The premise of today's challenge is about security framework. As we learned from the situation, Santa's website got hacked and defaced by an unknown actor. Our job is to help McSkidy (Santa's IT Admin) and her team to figure out their adversaries.
