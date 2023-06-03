@@ -23,7 +23,7 @@ The scenario here is about security, when things like this happened we must adhe
 ```
 Identify -> Protect -> Detect -> Respond -> Recover
 ```
-**ISO 27000 Series =** Developed by International Organization of Standardization (ISO) that outline a security framework for different industries and sectors. ISO 27001 and 27002 are common for cybersecurity for creating, implementing, and managing ISMS (Information security Management System).
+**ISO 27000 Series =** Developed by International Organization of Standardization (ISO) that outline a security framework for different industries and sectors. ISO 27001 and 27002 are common for cybersecurity for creating, implementing, and managing ISMS (Information Security Management System).
 
 **MITRE Att&CK Framework =** Developed to indentify adversary plans of attack. The framework was established by known TTPs (Tactics, Techniques, Procedures). The framework was structured like a periodic table to easily map phases of the attack chain.
 
