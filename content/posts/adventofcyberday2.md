@@ -5,6 +5,6 @@ draft: false
 tags: ["advent of Cyber 2022"]
 categories: ["cybersecurity"]
 ---
-**Day 2: Log Analysis**
+## Day 2: Log Analysis
 In this challenge, we are going to look at log files of the web server hosting "santagift.shop". It has been recently hijacked by the Bandit Yeti group and our
 job is to understand what happened and possibly track down the group responsible.
