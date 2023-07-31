@@ -13,26 +13,26 @@ The premise of today's challenge is about security framework. As we learned from
 
 ### Theory
 
-The scenario here is about security, when things like this happened we must adhere to the company's security policies and procedure.
+The scenario here is about security, when things like this happened we must adhere to the company's security policies and procedures.
 
-**Security Frameworks =** This is a documented process that defines what organization must follow to manage their security. It also include the steps to make following an attack.
+**Security Frameworks =** This is a documented process that defines what organizations must follow to manage their security. It also includes the steps to make following an attack.
 
 **Cybersecurity Framework =** Developed by NIST (National Institute of Standards and Technology) that provides a detailed guide for organizations to mitigate cybersecurity risk.
 
-> The framewok focuses on five essential function:
+> The framework focuses on five essential functions:
 ```
 Identify -> Protect -> Detect -> Respond -> Recover
 ```
-**ISO 27000 Series =** Developed by International Organization of Standardization (ISO) that outline a security framework for different industries and sectors. ISO 27001 and 27002 are common for cybersecurity for creating, implementing, and managing ISMS (Information Security Management System).
+**ISO 27000 Series =** Developed by the International Organization of Standardization (ISO) that outline a security framework for different industries and sectors. ISO 27001 and 27002 are common for cybersecurity for creating, implementing, and managing ISMS (Information Security Management System).
 
-**MITRE Att&CK Framework =** Developed to indentify adversary plans of attack. The framework was established by known TTPs (Tactics, Techniques, Procedures). The framework was structured like a periodic table to easily map phases of the attack chain.
+**MITRE Att&CK Framework =** Developed to identify adversary plans of attack. The framework was established by known TTPs (Tactics, Techniques, Procedures). The framework was structured like a periodic table to easily map phases of the attack chain.
 
-**Cyber Kill Chain =** Adopted by the military with the terminology "Kill Chain", it describes the structure of an attack. It consist of target identification, decision, order of the attack and destruction of the target.
+**Cyber Kill Chain =** Adopted by the military with the terminology "Kill Chain", it describes the structure of an attack. It consists of target identification, decision, order of the attack, and destruction of the target.
 
-> Here are the seven stages of Cyber Kill Chain:
+> Here are the seven stages of the Cyber Kill Chain:
 ![image](/cyber_kill_chain.png)
 
-**Unified Kill Chain =** Is the unigication of MITRE ATT&CK and Cyber Kill Chain frameworks. It provides a model to defend against cyber attacks from the adversary's perspective. UKC has 18 phases of attack based on TTP.
+**Unified Kill Chain =** Is the unification of MITRE ATT&CK and Cyber Kill Chain frameworks. It provides a model to defend against cyber attacks from the adversary's perspective. UKC has 18 phases of attack based on TTP.
 
 >_Cycle 1: IN_
 ```
