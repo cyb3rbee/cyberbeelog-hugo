@@ -26,7 +26,7 @@ Username: elfmcblue
 Password: tryhackme!
 ```
 
-Once the machine is up and running, answer this following questions:
+> Once the machine is up and running, answer this following questions:
 
 ```
 1.Ensure you are connected to the deployable machine in this task.
