@@ -54,9 +54,9 @@ In step 2, were going to use the command `ls`.
 
 - `ls` is a linux command for listing files on your current directory.
 
-![image]()
+![image](/aoc_ls_log)
 
 - once we use the command we are presented with two files.
 
     - SSHD.log & webserver.log
-    - with this clue we can answer question 2.              
+    - With this clue in mind we can answer question 2.              
