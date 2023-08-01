@@ -54,7 +54,7 @@ In step 2, were going to use the command `ls`.
 
 - `ls` is a linux command for listing files on your current directory.
 
-![image](/aoc_ls_log)
+![image](/aoc_ls_log.png)
 
 - once we use the command we are presented with two files.
 
