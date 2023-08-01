@@ -59,4 +59,18 @@ In step 2, were going to use the command `ls`.
 - once we use the command we are presented with two files.
 
     - SSHD.log & webserver.log
-    - With this clue in mind we can answer question 2.              
+    - With this clue in mind we can answer question 2 & 3. 
+
+ 
+> ### Step 3
+
+- In this step we are looking towards investigating the log files. First, we have to look at the webserver.log file to answer 5, 6, & 7.
+
+    - I used the `less` command here but you can use `cat` or even open it within a text editor (nano, vim).
+
+![image](/aoc_webserver_log.png)
+
+    - From this log we can find out when the web server got hacked and the IP address of the attacker.
+    - In addition we can see that gobuster was used to get into the server.
+    - Looking at the log we can find the clue to answering question 5 and 6. 
+            
