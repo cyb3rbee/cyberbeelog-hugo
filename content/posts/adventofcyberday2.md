@@ -69,8 +69,7 @@ In step 2, were going to use the command `ls`.
     - I used the `less` command here but you can use `cat` or even open it within a text editor (nano, vim).
 
 ![image](/aoc_webserver_log.png)
-
-    - From this log we can find out when the web server got hacked and the IP address of the attacker.
-    - In addition we can see that gobuster was used to get into the server.
-    - Looking at the log we can find the clue to answering question 5 and 6. 
+- From this log we can find out when the web server got hacked and the IP address of the attacker.
+- In addition we can see that gobuster was used to get into the server.
+- Looking at the log we can find the clue to answering question 5 and 6. 
             
