@@ -26,8 +26,8 @@ Username: elfmcblue
 Password: tryhackme!
 ```
 
-> Once the machine is up and running, answer this following questions:
-
+> **_Once the machine is up and running, answer this following questions:_**
+>
 >   1.Ensure you are connected to the deployable machine in this task.
 >
 >   2. Use the ls command to list the files present in the current directory. How many log files are present?
