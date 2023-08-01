@@ -55,3 +55,8 @@ In step 2, were going to use the command `ls`.
 - `ls` is a linux command for listing files on your current directory.
 
 ![image]()
+
+- once we use the command we are presented with two files.
+
+    - SSHD.log & webserver.log
+    - with this clue we can answer question 2.              
