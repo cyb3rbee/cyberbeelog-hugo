@@ -44,5 +44,12 @@ Password: tryhackme!
 >
 >   8. Look through the log files for the flag. The format of the flag is: THM{}
 
+---
 
+> ### Step 1
+Were going to skip step 1 since we already turned on the machine.
 
+> ### Step 2
+In step 2, were going to use the command `ls`.
+    - `ls` is a linux command for listing files on your current directory.
+![image]()
