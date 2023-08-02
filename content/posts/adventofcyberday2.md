@@ -71,5 +71,21 @@ In step 2, were going to use the command `ls`.
 ![image](/aoc_webserver_log.png)
 - From this log we can find out when the web server got hacked and the IP address of the attacker.
 - In addition we can see that gobuster was used to get into the server.
-- Looking at the log we can find the clue to answering question 5 and 6. 
+- Looking at the logs we can find the clue to answering question 5 and 6.
+
+### Step 4
+
+- In this step we are going to use the `grep` command to search through the log files for a specific word or string.
+- Questions 7 & 8 need us to use the grep command to find out the answers.
+
+![image](/aoc_santaslists.png)
+- I used the `grep -i` command with ignore case to find any lines with the word "list.txt".
+- You can also used regex operation with `-w` syntax if you know how regex.
+- With this clue we can answer question 7.
+
+![image](/aoc_grep.png)
+- The last question want us to find the flag with the format THM{}.
+- There is a lot of ways to find this flag however, we will utilize the `grep` command.
+- I used the syntax `r` for recursively searching a string in the directory.
+- This clue should answer the last question. 
             
