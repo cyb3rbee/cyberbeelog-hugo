@@ -73,7 +73,7 @@ In step 2, were going to use the command `ls`.
 - In addition we can see that gobuster was used to get into the server.
 - Looking at the logs we can find the clue to answering question 5 and 6.
 
-### Step 4
+> ### Step 4
 
 - In this step we are going to use the `grep` command to search through the log files for a specific word or string.
 - Questions 7 & 8 need us to use the grep command to find out the answers.
@@ -88,4 +88,5 @@ In step 2, were going to use the command `ls`.
 - There is a lot of ways to find this flag however, we will utilize the `grep` command.
 - I used the syntax `r` for recursively searching a string in the directory.
 - This clue should answer the last question. 
-            
+
+---            
