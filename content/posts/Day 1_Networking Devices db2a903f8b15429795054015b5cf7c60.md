@@ -1,3 +1,12 @@
+---
+title: "CCNA: Networking Devices"
+date: 2023-12-13T14:40:10-07:00
+draft: false
+tags: ["Networking"]
+categories: ["CCNA"]
+---
+
+
 # Day 1_Networking Devices
 
 [https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
