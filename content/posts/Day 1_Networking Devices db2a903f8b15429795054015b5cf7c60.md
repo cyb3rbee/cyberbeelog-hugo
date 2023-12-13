@@ -85,9 +85,9 @@ The same device can be a client in some situation, and a server in other situati
         2. Firepower 2100 |  These are Cisco firewall hardware appliances.
 ```
 
-![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%205.png)
+![image](/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%205.png)
 
-![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%206.png)
+![image](/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%206.png)
 
 ### **Types of Firewalls**
 
