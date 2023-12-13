@@ -7,10 +7,6 @@ categories: ["CCNA"]
 ---
 
 
-# Day 1_Networking Devices
-
-[https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
-
 ## **Networking Devices**
 
 > Computer Network : a digital telecommunications network which allows nodes to share resources.
@@ -51,9 +47,9 @@ The same device can be a client in some situation, and a server in other situati
 ```
 ```
 
-![Untitled](Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled.png)
+![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled.png)
 
-![Untitled](Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%201.png)
+![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%201.png)
 
 ### **Routers**
 
@@ -68,12 +64,12 @@ The same device can be a client in some situation, and a server in other situati
         3. ISR 4000 |
     ```
     
-    ![Untitled](Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%202.png)
+    ![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%202.png)
     
 
-![Untitled](Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%203.png)
+![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%203.png)
 
-![Untitled](Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%204.png)
+![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%204.png)
 
 ### **Firewall**
 
@@ -89,9 +85,9 @@ The same device can be a client in some situation, and a server in other situati
         2. Firepower 2100 |  These are Cisco firewall hardware appliances.
 ```
 
-![Untitled](Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%205.png)
+![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%205.png)
 
-![Untitled](Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%206.png)
+![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%206.png)
 
 ### **Types of Firewalls**
 
