@@ -1,6 +1,6 @@
 ---
 title: "CCNA: Networking Devices"
-date: 2023-12-13T14:40:10-07:00
+date: 2023-12-12T14:40:10-07:00
 draft: false
 tags: ["Networking"]
 categories: ["CCNA"]
