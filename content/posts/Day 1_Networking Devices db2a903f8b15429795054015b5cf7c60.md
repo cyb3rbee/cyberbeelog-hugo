@@ -24,7 +24,7 @@ categories: ["CCNA"]
 ## **Building a Network**
 
 > Building a network can be as simply 2 PC’s connected together.
-> 
+ 
 
 **Client** : is a device that accesses a service made available by a server. **Server** : is a device that provides functions or services for the clients.
 
@@ -47,9 +47,9 @@ The same device can be a client in some situation, and a server in other situati
 ```
 ```
 
-![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled.png)
+![image](/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled.png)
 
-![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%201.png)
+![image](/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%201.png)
 
 ### **Routers**
 
@@ -64,12 +64,12 @@ The same device can be a client in some situation, and a server in other situati
         3. ISR 4000 |
     ```
     
-    ![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%202.png)
+    ![image](/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%202.png)
     
 
-![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%203.png)
+![image](/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%203.png)
 
-![image](/static/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%204.png)
+![image](/Day%201_Networking%20Devices%20db2a903f8b15429795054015b5cf7c60/Untitled%204.png)
 
 ### **Firewall**
 
