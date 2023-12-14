@@ -2,8 +2,8 @@
 title: "[THM] Advent of Cyber 2022 Day 2 - WalkThrough"
 date: 2022-12-02T14:40:10-07:00
 draft: false
-tags: ["advent of Cyber 2022"]
-categories: ["cybersecurity"]
+tags: ["cybersecurity"]
+categories: ["Advent of Cyber 2022"]
 ---
 ![image](/aoc_day2.png)
 
