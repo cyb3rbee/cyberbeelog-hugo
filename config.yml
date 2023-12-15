@@ -107,6 +107,10 @@ menu:
       name: Tags
       url: /Tags/
       weight: 20
+    - identifier: Search
+      name: Search
+      url: /Search/
+      weight: 30
 outputs:
   home:
     - HTML
