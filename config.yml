@@ -17,7 +17,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  #env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: CyberBeeHub
   description: "A hub for cybersecurity and IT topics"
   keywords: [Blog, Portfolio, PaperMod]
@@ -56,8 +56,8 @@ params:
     text: "CyberBeeHub"
     icon: /apple-touch-icon.png
     iconHeight: 35
-
-#Profile-info
+  
+  #Profile-info
   profileMode:
     enabled: true
     title: "CyberBeeHub" # optional default will be site title
@@ -68,8 +68,6 @@ params:
     imageHeight: 120 # custom size
     buttons:
       -name: Posts
-
-      
 
   socialIcons:
     - name: twitter
