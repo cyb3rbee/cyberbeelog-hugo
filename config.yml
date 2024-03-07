@@ -2,7 +2,7 @@ baseURL: "https://cyberbeelog.netlify.app/"
 languageCode: en-us
 title: CyberB33Log
 
-theme: PaperMod
+theme: ["PaperMod"]
 
 
 enableRobotsTXT: true
