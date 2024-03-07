@@ -53,22 +53,22 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "CyberBeeLog"
+    text: "CyberBeeHub"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  #Profile-info
+#Profile-info
   profileMode:
     enabled: true
     title: "CyberBeeHub" # optional default will be site title
     subtitle: "All things IT"
     imageUrl: "https://avatars.githubusercontent.com/u/93204711?v=4" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
       -name: Posts
-      -url: "/posts"
+
       
 
   socialIcons:
