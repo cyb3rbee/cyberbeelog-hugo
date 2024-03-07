@@ -18,7 +18,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: CyberBeeLog
+  title: CyberBeeHub
   description: "A hub for cybersecurity and IT topics"
   keywords: [Blog, Portfolio, PaperMod]
   author: MakJ A.
@@ -27,7 +27,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: dark # auto, light, dark
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -58,10 +57,21 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to Cyberbeelog, this is a blog about cybersecurity and IT related topics !
+  #Profile-info
+  profileMode:
+    enabled: true
+    title: "CyberBeeHub" # optional default will be site title
+    subtitle: "All things IT"
+    imageUrl: "https://avatars.githubusercontent.com/u/93204711?v=4" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      -name: Posts
+      -url: "/posts"
+      -name: Archive
+      -url: "/archives/"
+      -name: Search
 
   socialIcons:
     - name: twitter
