@@ -68,7 +68,7 @@ params:
     imageHeight: 120 # custom size
     buttons:
       -name: Posts
-      -url: posts
+      -url: "/posts"
       -name: Archive
       -url: "/archives"
       -name: Tags
