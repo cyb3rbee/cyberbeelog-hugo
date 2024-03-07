@@ -69,9 +69,7 @@ params:
     buttons:
       -name: Posts
       -url: "/posts"
-      -name: Archive
-      -url: "/archives/"
-      -name: Search
+      
 
   socialIcons:
     - name: twitter
