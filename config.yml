@@ -17,6 +17,30 @@ minify:
   minifyOutput: true
 
 params:
+
+    #Profile-info
+  profileMode:
+    enabled: true
+    title: "CyberBeeHub" # optional default will be site title
+    subtitle: "All things IT"
+    imageUrl: "https://avatars.githubusercontent.com/u/93204711?v=4" # optional
+    imageTitle: "" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      -name: Posts
+      -url: "/posts"
+      -name: Archive
+      -url: "/archives"
+      -name: Tags
+      -url: "/tags"
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/JayAndimat"
+    - name: github
+      url: "https://github.com/cyb3rbee/cyberbeelog-hugo"
+      
   #env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: CyberBeeHub
   description: "A hub for cybersecurity and IT topics"
@@ -57,29 +81,6 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
   
-  #Profile-info
-  profileMode:
-    enabled: true
-    title: "CyberBeeHub" # optional default will be site title
-    subtitle: "All things IT"
-    imageUrl: "https://avatars.githubusercontent.com/u/93204711?v=4" # optional
-    imageTitle: "" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
-    buttons:
-      -name: Posts
-      -url: "/posts"
-      -name: Archive
-      -url: "/archives"
-      -name: Tags
-      -url: "/tags"
-
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/JayAndimat"
-    - name: github
-      url: "https://github.com/cyb3rbee/cyberbeelog-hugo"
-
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
